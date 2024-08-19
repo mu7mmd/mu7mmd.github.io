@@ -21,12 +21,6 @@ A Flutter responsive and animated website dashboard designed to adapt to all scr
 
 This project draws direct design inspiration from [Coderthemes](https://coderthemes.com/jidox/layouts/index.html).
 
-## Designed For
-
-This test project is designed for:
-
-- [Yemen Soft](https://yemensoft.com/en).
-
 ## Packages Used
 
 ```yaml
